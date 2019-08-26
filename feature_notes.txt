@@ -1,0 +1,26 @@
+
+Data should be from: August 2018 - April 2019
+
+For model development use a full days data not single trips
+
+
+FEATURE ORIENTED STRATEGY:
+	-Average position
+	-total distance traveled
+	-average distance
+	-total duration
+	-average duration
+	-longest distance
+	-4 Max directional positions (from end positions)
+	-Frequent position binaries (visited: church, NView, Wallace)
+	-24 Binary hour driving indicators?
+
+BETTER DATA STRUCTURE:
+	First trip
+	Last trip
+	Longest trip
+	Average trip
+	westmost trip
+	eastmost trip
+	northmost trip
+	southmost trip
